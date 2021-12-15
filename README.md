@@ -4,6 +4,6 @@
   <li>PHP</li>
   <li>MySQL Database</li>
   <li>Laravel framework</li>
-  <li><p>The graduation project was System simulate courses registration and feedback system</p></li> </h2> 
+  <p>The graduation project was System simulate courses registration and feedback system</p> </h2> 
 </ol>
 
